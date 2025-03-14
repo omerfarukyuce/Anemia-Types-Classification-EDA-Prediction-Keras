@@ -6,13 +6,13 @@ This project aims to classify different types of anemia using a dataset containi
 The dataset used in this project is the "Diagnosed CBC Data" which contains various blood test parameters and their corresponding anemia types. The dataset is available at [Kaggle](https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification).
 
 ## ⚙️ Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow (Keras)
+- 🐍 Python
+- 🐼 Pandas
+- 📊 NumPy
+- 📊 Matplotlib
+- 📈 Seaborn
+- 🤖 Scikit-learn
+- 🤖 TensorFlow (Keras)
 
 ## 🏗️ Model Architecture
 The model is a sequential neural network with the following architecture:
