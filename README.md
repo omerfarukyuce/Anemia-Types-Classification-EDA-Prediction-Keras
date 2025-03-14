@@ -2,17 +2,8 @@
 
 This project aims to classify different types of anemia using a dataset containing various blood test parameters. The classification is achieved using a deep learning model built with Keras.
 
-## 📂 Table of Contents
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Visualizations](#visualizations)
-- [Getting Started](#getting-started)
-- [License](#license)
-
 ## 📊 Dataset
-The dataset used in this project is the "Diagnosed CBC Data" which contains various blood test parameters and their corresponding anemia types. The dataset is available at [Kaggle](https://www.kaggle.com).
+The dataset used in this project is the "Diagnosed CBC Data" which contains various blood test parameters and their corresponding anemia types. The dataset is available at [Kaggle](https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification).
 
 ## ⚙️ Technologies Used
 - Python
