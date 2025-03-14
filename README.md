@@ -1,4 +1,4 @@
-# 🩸 Anemia Types Classification
+# 🩸Anemia Types Classification EDA&Prediction Keras
 
 This project aims to classify different types of anemia using a dataset containing various blood test parameters. The classification is achieved using a deep learning model built with Keras.
 
