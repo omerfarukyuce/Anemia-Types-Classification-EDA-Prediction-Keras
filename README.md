@@ -36,3 +36,15 @@ Several visualizations are included in the project:
 - Correlation matrix heatmap
 - Confusion matrix for model predictions
 - ROC curves for each class
+
+## 📜 License
+
+This project is licensed under the [MIT](LICENSE) License.
+
+## 🔍 Code And Kaggle Link
+Project: [anemia-types-classification-eda-prediction-keras.ipynb](https://github.com/omerfarukyuce/Anemia-Types-Classification-EDA-Prediction-Keras/blob/main/anemia-types-classification-eda-prediction-keras.ipynb)
+
+Kaggle: [🩸Anemia Types Classification EDA&Prediction Keras)](https://www.kaggle.com/code/merfarukyce/anemia-types-classification-eda-prediction-keras/notebook)
+
+## 📊 Datasets
+Dataset: [Kaggle](https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification).
